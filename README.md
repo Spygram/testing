@@ -4,3 +4,5 @@ creates a develop branch and check it out
 ```shell
 git checkout -b develop
 ``` 
+## contributer
+* Sujan
