@@ -7,6 +7,7 @@ git checkout -b develop
 ```
 
 ## view branches
+<<<<<<< HEAD
 the branch with * denotes the current active branch
 view the current active branch 
 ```shell
@@ -22,3 +23,10 @@ git merge <source_branch>
 
 ## Contributor
 * Sujan
+=======
+the branch with * denotes the current actie branch 
+view the current active branch
+```shell
+git branch
+```
+>>>>>>> develop
